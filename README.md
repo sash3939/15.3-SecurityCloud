@@ -27,6 +27,8 @@
 
  <img width="1022" alt="dns" src="https://github.com/user-attachments/assets/d946866c-d552-4fba-8c3b-28592938c06c" />
 
+ <img width="692" alt="cert validation" src="https://github.com/user-attachments/assets/ce36b4bc-a19e-4506-a769-07ab2e802ffd" />
+
  - создать статическую страницу в Object Storage и применить сертификат HTTPS;
  - в качестве результата предоставить скриншот на страницу с сертификатом в заголовке (замочек).
 
