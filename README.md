@@ -8,10 +8,25 @@
 1. С помощью ключа в KMS необходимо зашифровать содержимое бакета:
 
  - создать ключ в KMS;
+
+<img width="1031" alt="kms" src="https://github.com/user-attachments/assets/16a6b6b8-02a2-4589-8490-cca5807a9f44" />
+
+<img width="727" alt="bucket-kms" src="https://github.com/user-attachments/assets/19551b45-4f16-4700-9867-bd327dbe1dae" />
+   
  - с помощью ключа зашифровать содержимое бакета, созданного ранее.
+
+<img width="646" alt="encrypt" src="https://github.com/user-attachments/assets/334558ea-7f52-4cba-bd00-1220fa15e025" />
+
+<img width="870" alt="common" src="https://github.com/user-attachments/assets/efb6a8db-aae7-43eb-a2d1-14608c9f0289" />
+
+<img width="756" alt="encrypt-key" src="https://github.com/user-attachments/assets/0c294d41-22bc-479b-8aed-9c8a37d5b167" />
+   
 2. (Выполняется не в Terraform)* Создать статический сайт в Object Storage c собственным публичным адресом и сделать доступным по HTTPS:
 
  - создать сертификат;
+
+ <img width="1022" alt="dns" src="https://github.com/user-attachments/assets/d946866c-d552-4fba-8c3b-28592938c06c" />
+
  - создать статическую страницу в Object Storage и применить сертификат HTTPS;
  - в качестве результата предоставить скриншот на страницу с сертификатом в заголовке (замочек).
 
