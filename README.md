@@ -29,6 +29,9 @@
 
  <img width="692" alt="cert validation" src="https://github.com/user-attachments/assets/ce36b4bc-a19e-4506-a769-07ab2e802ffd" />
 
+ <img width="496" alt="validated" src="https://github.com/user-attachments/assets/e6bc7a9b-f0c2-45e8-af98-afdf95e37772" />
+
+
  - создать статическую страницу в Object Storage и применить сертификат HTTPS;
  - в качестве результата предоставить скриншот на страницу с сертификатом в заголовке (замочек).
 
