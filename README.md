@@ -31,8 +31,13 @@
 
  <img width="496" alt="validated" src="https://github.com/user-attachments/assets/e6bc7a9b-f0c2-45e8-af98-afdf95e37772" />
 
+ <img width="705" alt="cert apply" src="https://github.com/user-attachments/assets/84d870c3-b727-4733-aeef-8e1371a84bba" />
+
+ <img width="732" alt="cert apply1" src="https://github.com/user-attachments/assets/77223704-53e3-4cad-9e74-a8986cfe6c46" />
 
  - создать статическую страницу в Object Storage и применить сертификат HTTPS;
+
+
  - в качестве результата предоставить скриншот на страницу с сертификатом в заголовке (замочек).
 
 Полезные документы:
