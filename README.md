@@ -37,8 +37,13 @@
 
  - создать статическую страницу в Object Storage и применить сертификат HTTPS;
 
+ <img width="661" alt="static page" src="https://github.com/user-attachments/assets/4031dcaf-06ae-45f5-8883-1072004b4ff6" />
 
  - в качестве результата предоставить скриншот на страницу с сертификатом в заголовке (замочек).
+
+ <img width="478" alt="https_page" src="https://github.com/user-attachments/assets/34d0a6ab-7d0c-4b64-956b-d857bc0b082c" />
+
+ <img width="948" alt="https_page1" src="https://github.com/user-attachments/assets/ad60b2e9-9c59-42b1-83bf-46a19a6f2a94" />
 
 Полезные документы:
 
